@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PrimeraTarea</string>
+    <string name="btnIngresar">EMPEZAR</string>
+
+    <string name="primerNumero">Ingrese el primer numero</string>
+    <string name="segundoNumero">Ingrese el segundo numero</string>
+
+    <string name="btnSumar">Sumar</string>
+    <string name="btnRestar">Restar</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnDividir">Dividir</string>
+    <string name="btnRegresar">REGRESAR</string>
+</resources>
